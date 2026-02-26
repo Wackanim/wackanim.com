@@ -1,0 +1,10 @@
+version: '3'
+services:
+  wackwebsite:
+    image: nginx:latest
+    container_name: wackwebsite
+    volumes:
+      - /opt/wackwebsite/html:/usr/share/nginx/html
+    ports:
+      - 80:80
+    restart: always
