@@ -1,4 +1,3 @@
-version: '3'
 services:
   wackwebsite:
     image: nginx:latest
