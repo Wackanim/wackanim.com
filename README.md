@@ -1,2 +1,2 @@
-# This is my website!! :)  
+# Source code of my website! :)  
 I think it's pretty cool
